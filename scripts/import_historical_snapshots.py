@@ -207,7 +207,9 @@ def load_current_constituents(docs_dir: Path, code: str) -> pd.DataFrame:
     if not csv_path.exists():
         raise FileNotFoundError(f"Current constituents file not found: {csv_path}")
     df = pd.read_csv(csv_path, dtype=str)
-    df.columns = ['Symbol', 'Name']
+    if 'Symbol' not in df.columns or 'Name' not in df.columns:
+        raise ValueError(f"Current constituents missing Symbol/Name columns: {csv_path}")
+    df = df[['Symbol', 'Name']].copy()
     df['Symbol'] = df['Symbol'].astype(str)
     df['Name'] = df['Name'].astype(str)
     return df

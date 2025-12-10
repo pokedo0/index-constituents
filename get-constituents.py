@@ -38,36 +38,31 @@ def get_constituents_from_csindex(url):
     return df
 
 def get_constituents_from_slickcharts(url):
-    selector_yml = '''
-                    Symbol:
-                        css: 'tr td:nth-of-type(3) a'
-                        xpath: null
-                        multiple: true
-                        type: Text
-                    Name:
-                        css: 'div.col-lg-7 tr td:nth-of-type(2) a'
-                        xpath: null
-                        multiple: true
-                        type: Text
-                   '''
-
-    e = Extractor.from_yaml_string(selector_yml)
-
     headers = { 'User-Agent' : ua.random }
     r = requests.get(url, headers=headers)
 
-    data = e.extract(r.text)
-    
-    # Handle potential None values and array length mismatches
-    symbols = data.get('Symbol') or []
-    names = data.get('Name') or []
-    
-    # Handle mismatched lengths by taking the minimum
-    min_length = min(len(symbols), len(names))
-    symbols = symbols[:min_length]
-    names = names[:min_length]
-    
-    df = pd.DataFrame({'Symbol': symbols, 'Name': names})
+    # Slickcharts pages contain a single data table with richer columns (weight, price, change).
+    tables = pd.read_html(io.StringIO(r.text))
+    if not tables:
+        raise ValueError('No table found on slickcharts page')
+
+    df_raw = tables[0]
+    rename_map = {
+        'Company': 'Name',
+    }
+    df_raw = df_raw.rename(columns=rename_map)
+
+    # Keep the core columns we care about; drop rank or trailing empty columns if present.
+    keep_cols = ['Symbol', 'Name', 'Weight', 'Price', 'Chg', '% Chg']
+    available_cols = [c for c in keep_cols if c in df_raw.columns]
+    if len(available_cols) < 2:
+        raise ValueError(f'Unexpected slickcharts columns: {df_raw.columns.tolist()}')
+
+    df = df_raw[available_cols].copy()
+
+    # Normalize types to string for consistent CSV/JSON output
+    for col in df.columns:
+        df[col] = df[col].astype(str)
 
     return df
 
