@@ -1,0 +1,102 @@
+Symbol,Name,Weight,Price,Chg,% Chg
+AAPL,Apple Inc.,12.88%,355.63,7.12,2.04%
+NVDA,Nvidia Corp,10.45%,173.73,4.84,2.87%
+MSFT,Microsoft Corp,9.64%,521.13,-12.03,-2.26%
+AMZN,Amazon.Com Inc,7.17%,266.17,-4.7,-1.74%
+SPCX,Space Exploration Technologies Corp. Class A Common Stock,4.73%,139.75,-3.34,-2.33%
+GOOGL,Alphabet Inc. Class A Common Stock,4.62%,293.45,6.07,2.11%
+GOOG,Alphabet Inc. Class C Capital Stock,4.33%,290.63,5.71,2.00%
+AVGO,Broadcom Inc. Common Stock,4.11%,345.22,13.24,3.99%
+META,"Meta Platforms, Inc. Class A Common Stock",4.01%,628.77,-12.62,-1.97%
+TSLA,"Tesla, Inc. Common Stock",3.85%,390.84,11.06,2.91%
+WMT,Walmart Inc. Common Stock,2.48%,125.67,0.12,0.10%
+MU,"Micron Technology, Inc.",2.29%,811.3,86.19,11.89%
+AMD,Advanced Micro Devices,2.26%,552.9,37.69,7.32%
+ASML,ASML Holding NV,1.47%,1534.42,26.57,1.76%
+COST,Costco Wholesale Corp,1.20%,1087.61,21.47,2.01%
+PLTR,Palantir Technologies Inc. Class A Common Stock,1.03%,172.4,3.58,2.12%
+CSCO,"Cisco Systems, Inc. Common Stock (DE)",0.99%,100.76,2.61,2.66%
+INTC,Intel Corp,0.83%,62.5,4.37,7.52%
+AMAT,Applied Materials Inc,0.78%,395.08,22.55,6.05%
+LRCX,Lam Research Corp,0.74%,235.88,13.49,6.07%
+TXN,Texas Instruments Incorporated,0.71%,309.81,9.29,3.09%
+PANW,"Palo Alto Networks, Inc. Common Stock",0.68%,334.47,8.11,2.48%
+NFLX,NetFlix Inc,0.66%,64.54,1.28,2.02%
+AMGN,Amgen Inc,0.63%,468.11,2.88,0.62%
+LIN,Linde plc Ordinary Share,0.60%,526.55,4.77,0.91%
+CRWD,"CrowdStrike Holdings, Inc. Class A Common Stock",0.58%,229.06,3.3,1.46%
+ARM,Arm Holdings plc American Depositary Shares,0.54%,203.36,21.87,12.05%
+GILD,Gilead Sciences Inc,0.52%,169.73,-1.14,-0.67%
+KLAC,KLA Corporation Common Stock,0.52%,161.01,8.02,5.24%
+ADI,"Analog Devices, Inc.",0.49%,409.08,15.78,4.01%
+PEP,"PepsiCo, Inc.",0.49%,143.94,0.33,0.23%
+SHOP,Shopify Inc. Class A subordinate voting shares,0.48%,149.26,2.65,1.81%
+QCOM,Qualcomm Inc,0.47%,176.57,3.04,1.75%
+TMUS,"T-Mobile US, Inc.",0.45%,172.16,3.08,1.82%
+ISRG,Intuitive Surgical Inc.,0.39%,449.53,-0.51,-0.11%
+MRVL,"Marvell Technology, Inc. Common Stock",0.38%,168.8,14.41,9.33%
+SNDK,Sandisk Corporation Common Stock,0.35%,977.69,117.7,13.69%
+VRTX,Vertex Pharmaceuticals Inc,0.35%,547.03,-0.86,-0.16%
+APP,Applovin Corporation Class A Common Stock,0.33%,404.77,9.26,2.34%
+STX,Seagate Technology Holdings PLC Ordinary Shares (Ireland),0.32%,551.72,50.1,9.99%
+SBUX,Starbucks Corp,0.31%,109.89,-0.06,-0.05%
+ADP,Automatic Data Processing,0.30%,306.36,0.92,0.30%
+BKNG,Booking Holdings Inc. Common Stock,0.30%,160.21,0.95,0.60%
+WDC,Western Digital Corp.,0.29%,313.31,24.11,8.34%
+PDD,PDD Holdings Inc. American Depositary Shares,0.28%,79.01,-0.39,-0.49%
+MAR,Marriott International Class A Common Stock,0.28%,429.18,0.92,0.21%
+ABNB,"Airbnb, Inc. Class A Common Stock",0.27%,181.13,-5.77,-3.09%
+MRNA,"Moderna, Inc. Common Stock",0.25%,248.69,-2.14,-0.85%
+REGN,Regeneron Pharmaceuticals Inc,0.25%,959.41,43.35,4.73%
+CEG,Constellation Energy Corporation Common Stock,0.24%,274.73,6.97,2.60%
+CSX,CSX Corporation,0.24%,51.9,0.82,1.61%
+FTNT,"Fortinet, Inc.",0.23%,128.1,4.53,3.67%
+ADBE,Adobe Inc.,0.23%,237.6,0.9,0.38%
+INTU,Intuit Inc,0.23%,342.64,2.2,0.65%
+CDNS,Cadence Design Systems,0.23%,329.26,-2.38,-0.72%
+CTAS,Cintas Corp,0.22%,227.26,1.98,0.88%
+MNST,Monster Beverage Corporation,0.22%,45.4,0.06,0.13%
+CMCSA,Comcast Corp,0.22%,25.02,0.27,1.09%
+SNPS,Synopsys Inc,0.22%,462.12,2.17,0.47%
+MDLZ,"Mondelez International, Inc. Class A",0.21%,66.7,0.16,0.24%
+DASH,"DoorDash, Inc. Class A Common Stock",0.19%,178.26,0.01,0.01%
+ROST,Ross Stores Inc,0.19%,241.27,2.32,0.97%
+MELI,"Mercado Libre, Inc",0.19%,1512.02,21.78,1.46%
+ORLY,"O'Reilly Automotive, Inc.",0.18%,90.54,1.15,1.29%
+HON,"Honeywell International, Inc.",0.18%,227.64,-0.58,-0.25%
+MPWR,"Monolithic Power Systems, Inc.",0.18%,1478.69,121.09,8.92%
+AEP,"American Electric Power Company, Inc.",0.18%,129.21,1.37,1.07%
+NXPI,NXP Semiconductors N.V.,0.17%,269.51,7.95,3.04%
+DDOG,"Datadog, Inc. Class A Common Stock",0.17%,184.38,5.98,3.35%
+FAST,Fastenal Co,0.16%,55.49,0.65,1.19%
+LITE,Lumentum Holdings Inc. Common Stock,0.15%,648.06,62.49,10.67%
+PCAR,Paccar Inc,0.14%,108.13,2.56,2.42%
+IDXX,Idexx Laboratories Inc,0.14%,702.59,5.95,0.85%
+ADSK,Autodesk Inc,0.14%,260.01,-0.1,-0.04%
+HONA,Honeywell Aerospace Inc. Common Stock,0.13%,169.53,3.06,1.84%
+KDP,Keurig Dr Pepper Inc.,0.13%,38.25,0.66,1.76%
+XEL,"Xcel Energy, Inc.",0.13%,81.1,0.98,1.22%
+MSTR,Strategy Inc Common Stock Class A,0.13%,122.35,1.28,1.06%
+CCEP,Coca-Cola Europacific Partners plc Ordinary Shares,0.13%,117.87,0.32,0.27%
+FANG,"Diamondback Energy, Inc.",0.13%,180.98,2.9,1.63%
+PYPL,"PayPal Holdings, Inc. Common Stock",0.12%,59.48,0.7,1.19%
+BKR,Baker Hughes Company,0.12%,49.41,1.64,3.43%
+ROP,"Roper Technologies, Inc. Common Stock",0.12%,477.7,3.23,0.68%
+EXC,Exelon Corporation,0.12%,45.61,0.08,0.18%
+TRI,Thomson Reuters Corporation Common Shares,0.12%,108.83,0.42,0.39%
+WDAY,"Workday, Inc. Class A Common Stock",0.11%,191.16,2.27,1.20%
+FER,Ferrovial N.V. Ordinary Shares,0.11%,61.29,0.3,0.49%
+TTWO,Take-Two Interactive Software Inc,0.11%,231.31,6.67,2.97%
+RKLB,Rocket Lab Corporation Common Stock,0.11%,66.15,3.44,5.49%
+NBIS,Nebius Group N.V. Class A Ordinary Shares,0.10%,154.69,20.69,15.44%
+TER,"Teradyne, Inc. Common Stock",0.10%,265.78,20.38,8.30%
+PAYX,Paychex Inc,0.10%,115.37,-0.83,-0.71%
+ALAB,"Astera Labs, Inc. Common Stock",0.10%,230.91,14.73,6.81%
+GEHC,GE HealthCare Technologies Inc. Common Stock,0.09%,82.6,-1.05,-1.26%
+ODFL,Old Dominion Freight Line,0.09%,170.5,2.48,1.48%
+MCHP,Microchip Technology Inc,0.08%,62.13,1.8,2.98%
+CRWV,"CoreWeave, Inc. Class A Common Stock",0.08%,60.77,12.04,24.71%
+DXCM,"DexCom, Inc.",0.07%,80.34,0.42,0.53%
+CPRT,Copart Inc,0.07%,32.17,-0.13,-0.40%
+AXON,"Axon Enterprise, Inc. Common Stock",0.06%,315.42,12.88,4.26%
+ALNY,"Alnylam Pharmaceuticals, Inc.",0.05%,159.85,8.21,5.41%
