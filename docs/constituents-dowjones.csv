@@ -1,31 +1,31 @@
 Symbol,Name,Weight,Price,Chg,% Chg
-GS,Goldman Sachs Group Inc.,9.80%,796.34,-51.19,-6.04%
-CAT,Caterpillar Inc.,6.31%,513.0,-24.37,-4.53%
-MSFT,Microsoft Corp,5.98%,486.21,-12.09,-2.43%
-AMGN,Amgen Inc,5.40%,438.64,-0.18,-0.04%
-V,VISA Inc.,4.97%,403.6,1.35,0.34%
-TRV,"The Travelers Companies, Inc.",4.84%,393.33,2.72,0.70%
-AAPL,Apple Inc.,4.23%,343.44,-5.77,-1.65%
-HD,"Home Depot, Inc.",4.19%,340.6,3.92,1.16%
-SHW,The Sherwin-Williams Company,4.18%,339.75,-0.08,-0.02%
-UNH,UNITEDHEALTH GROUP INCORPORATED (Delaware),4.18%,339.52,9.04,2.74%
-JPM,JPMorgan Chase & Co.,3.82%,310.34,-9.88,-3.09%
-AXP,American Express Company,3.71%,301.68,-9.43,-3.03%
-MCD,McDonald's Corporation,3.36%,272.58,0.23,0.08%
-JNJ,Johnson & Johnson,3.33%,270.89,3.75,1.40%
-GOOGL,Alphabet Inc. Class A Common Stock,3.29%,266.94,-5.72,-2.10%
-AMZN,Amazon.Com Inc,3.06%,248.75,-8.62,-3.35%
-IBM,International Business Machines Corporation,2.78%,225.69,1.81,0.81%
-HON,"Honeywell International, Inc.",2.62%,212.74,-5.1,-2.34%
-CVX,Chevron Corporation,2.57%,208.41,1.91,0.92%
-CRM,"Salesforce, Inc.",2.22%,180.38,-2.93,-1.60%
-MMM,3M Company,2.19%,178.0,-0.47,-0.27%
-PG,Procter & Gamble Company,2.09%,169.54,1.69,1.01%
-BA,Boeing Company,1.92%,156.01,-4.5,-2.80%
-MRK,"Merck & Co., Inc.",1.64%,133.5,0.69,0.52%
-WMT,Walmart Inc. Common Stock,1.58%,128.03,1.98,1.57%
-NVDA,Nvidia Corp,1.56%,126.75,-19.23,-13.17%
-DIS,The Walt Disney Company,1.46%,118.25,-2.0,-1.66%
-KO,Coca-Cola Company,1.19%,96.91,0.81,0.85%
-CSCO,"Cisco Systems, Inc. Common Stock (DE)",1.12%,91.03,-3.67,-3.87%
-NKE,"Nike, Inc.",0.41%,32.97,-1.36,-3.96%
+GS,Goldman Sachs Group Inc.,9.87%,825.05,34.36,4.35%
+CAT,Caterpillar Inc.,6.59%,551.25,40.8,7.99%
+MSFT,Microsoft Corp,5.89%,492.32,7.8,1.61%
+AMGN,Amgen Inc,5.39%,450.25,14.61,3.35%
+V,VISA Inc.,4.90%,410.0,8.13,2.02%
+TRV,"The Travelers Companies, Inc.",4.73%,395.25,2.0,0.51%
+SHW,The Sherwin-Williams Company,4.21%,351.85,12.11,3.56%
+AAPL,Apple Inc.,4.18%,349.36,6.8,1.99%
+HD,"Home Depot, Inc.",4.14%,345.83,6.79,2.00%
+UNH,UNITEDHEALTH GROUP INCORPORATED (Delaware),4.02%,336.2,-3.65,-1.07%
+JPM,JPMorgan Chase & Co.,3.80%,317.77,7.25,2.33%
+AXP,American Express Company,3.69%,308.62,6.92,2.29%
+GOOGL,Alphabet Inc. Class A Common Stock,3.40%,284.15,18.86,7.11%
+MCD,McDonald's Corporation,3.29%,275.4,2.16,0.79%
+JNJ,Johnson & Johnson,3.24%,270.83,0.36,0.13%
+AMZN,Amazon.Com Inc,3.07%,256.47,9.65,3.91%
+IBM,International Business Machines Corporation,2.79%,233.18,8.74,3.89%
+HON,"Honeywell International, Inc.",2.62%,218.75,6.12,2.88%
+CVX,Chevron Corporation,2.47%,206.58,-1.79,-0.86%
+CRM,"Salesforce, Inc.",2.22%,185.2,4.58,2.54%
+MMM,3M Company,2.21%,184.71,6.72,3.78%
+PG,Procter & Gamble Company,2.03%,169.78,0.41,0.24%
+NVDA,Nvidia Corp,1.99%,166.13,40.6,32.34%
+BA,Boeing Company,1.95%,162.7,6.81,4.37%
+MRK,"Merck & Co., Inc.",1.63%,136.38,2.66,1.99%
+WMT,Walmart Inc. Common Stock,1.55%,129.33,1.38,1.08%
+DIS,The Walt Disney Company,1.44%,120.18,2.2,1.86%
+CSCO,"Cisco Systems, Inc. Common Stock (DE)",1.16%,96.71,6.07,6.70%
+KO,Coca-Cola Company,1.15%,95.95,-1.03,-1.07%
+NKE,"Nike, Inc.",0.40%,33.84,0.92,2.81%
